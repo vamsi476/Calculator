@@ -5,3 +5,5 @@ out/
 
 # Maven
 target/
+
+# Testing fresstyle concept in Jenkins
